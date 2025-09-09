@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Zaakia 👋
 
-<!--
-**zaakia-rgb/zaakia-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning **Frontend Development (HTML, CSS, JavaScript, React)**  
+💻 Passionate about building **modern, user-friendly websites**  
+📌 Open to **internship opportunities** to gain real-world experience  
+⚡ Fun fact: I love designing clean UI and learning new skills every day  
 
-Here are some ideas to get you started:
+### 🚀 Skills
+- HTML | CSS | JavaScript  
+- React (Beginner)  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me:
+- LinkedIn: [linkedin.com/in/zaakia] (https://linkedin.com/in/zaakia)  
+- Email: zaakiafazil@example.com  
+
+✨ *Thanks for visiting my profile!*
+
